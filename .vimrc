@@ -5,6 +5,7 @@ Plug 'mhinz/vim-startify'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'tpope/vim-commentary'
 call plug#end()
 
 " NERDTree: \e 打开/关闭
